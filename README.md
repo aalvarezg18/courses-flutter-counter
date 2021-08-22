@@ -1,4 +1,4 @@
-# contador
+# counter
 
 A new Flutter project.
 
